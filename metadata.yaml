@@ -1,0 +1,43 @@
+_repo: Uudenmetsan-lapset_52021
+_version: 0.0.1
+alternative_title: The children of the New Forest. Finnish
+contributor:
+  translator:
+    agent_name: Swan, Anni
+    alias: Swan-Manninen, Anni Emilia
+    birthdate: 1875
+    deathdate: 1958
+    gutenberg_agent_id: '47803'
+    url: http://www.gutenberg.org/2009/agents/47803
+creator:
+  author:
+    agent_name: Marryat, Frederick
+    aliases:
+    - Marryat, Kapitein
+    - Marryat, Captain
+    - Marryat, F. W. (Frederick W.)
+    - Marryatt, Captain
+    birthdate: 1792
+    deathdate: 1848
+    gutenberg_agent_id: '627'
+    url: http://www.gutenberg.org/2009/agents/627
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Marryat
+description: ''
+gutenberg_issued: '2016-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52021'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New Forest (England : Forest) -- Juvenile fiction'
+- !lcsh 'Great Britain -- History -- Civil War, 1642-1649 -- Juvenile fiction'
+- !lcsh 'Foresters -- Juvenile fiction'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Soldiers -- Juvenile fiction'
+- GITenberg
+title: Uudenmetsän lapset
+url: http://www.gutenberg.org/ebooks/52021
